@@ -25,7 +25,7 @@ This is the Final Project for the course of Interactive Graphics, A.Y. 2022/2023
 
 ## 📜 Project Documentation
 
--   [Documentation 🔗](./documentation.pdf)
+-   [Documentation 🔗](./Documentation.pdf)
 
     In this file I present a technical presentation of the project as well as a user manual to explore every aspect of the game.
 
